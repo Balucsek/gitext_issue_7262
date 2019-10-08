@@ -5,3 +5,4 @@ an other commit but with line breaks
 5
 an other long commit
 6
+and one more long commit
